@@ -1,0 +1,32 @@
+_repo: Nederlandsch-handboek-voor-roeisport_39035
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Damsté, Pieter Helbert
+    aliases:
+    - Damsté, Petrus Helbertus
+    - Damste, Pieter Helbert
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '39800'
+    url: http://www.gutenberg.org/2009/agents/39800
+  - agent_name: Rijcken, Frans Eduard Pels
+    gutenberg_agent_id: '39801'
+    url: http://www.gutenberg.org/2009/agents/39801
+description: ''
+gutenberg_issued: '2012-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39035'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Rowing'
+title: Nederlandsch handboek voor roeisport
+url: http://www.gutenberg.org/ebooks/39035
